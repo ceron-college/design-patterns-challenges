@@ -1,3 +1,7 @@
-# Software Design Patterns Challenges
+# 🏆 Software Design Patterns Challenges
 
-This repository contains coding challenges and projects for learning and implementing various software design patterns in Java.
+This repo contains Java projects demonstrating various software design patterns.
+
+## 📚 Patterns Covered
+
+- **Creational**: Builder, Abstract Factory
